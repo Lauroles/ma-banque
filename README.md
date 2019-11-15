@@ -1,3 +1,6 @@
+Doc Postman : 
+https://web.postman.co/collections/5996803-9ce33481-61ce-4a12-af64-e3798ed023d3?version=latest&workspace=bdbfdd30-536a-46cd-8bda-e240e66e6ee7
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
@@ -75,5 +78,4 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
   Nest is [MIT licensed](LICENSE).
 
 
-Doc Postman : 
-https://web.postman.co/collections/5996803-9ce33481-61ce-4a12-af64-e3798ed023d3?version=latest&workspace=bdbfdd30-536a-46cd-8bda-e240e66e6ee7
+
